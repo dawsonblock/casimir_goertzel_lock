@@ -1,0 +1,17 @@
+{
+  "name": "sign_convention_00",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": -4341405,
+  "q_out": -2480242,
+  "s_n": -4654740,
+  "s_n_minus_1": -2499963,
+  "max_abs_state": 4990053,
+  "overflow_expected": false
+}

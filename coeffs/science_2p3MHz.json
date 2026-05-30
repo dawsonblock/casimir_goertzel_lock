@@ -1,0 +1,16 @@
+{
+  "fs_hz": 10000000.0,
+  "target_hz": 2300000.0,
+  "n_block": 1000,
+  "k_exact": 230.0,
+  "k_nearest": 230,
+  "coherent": true,
+  "omega_rad_per_sample": 1.4451326206513049,
+  "q_shift": 17,
+  "q_format": "Q17",
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "coefficient_width_hint_bits": 18,
+  "scale": 131072
+}

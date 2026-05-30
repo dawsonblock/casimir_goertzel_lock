@@ -1,0 +1,17 @@
+{
+  "name": "two_tone_interference",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": 441053,
+  "q_out": -3472054,
+  "s_n": 2420,
+  "s_n_minus_1": -3499662,
+  "max_abs_state": 3499662,
+  "overflow_expected": false
+}

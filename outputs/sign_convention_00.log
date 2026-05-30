@@ -1,0 +1,20 @@
+=================================================
+  GOERTZEL CORE SINGLE-VECTOR TESTBENCH
+=================================================
+Vector dir: vectors/sign_convention_00
+ADC path:   vectors/sign_convention_00/adc.hex
+EXP path:   vectors/sign_convention_00/expected.txt
+Expected I: -4341405
+Expected Q: -2480242
+Expected overflow: 0
+-------------------------------------------------
+RTL block_done detected
+  dout_valid     = 1
+  overflow_block = 0
+  overflow_sticky= 0
+  I_OUT          = -4341405
+  Q_OUT          = -2480242
+-------------------------------------------------
+>> VERDICT: PASS. RTL exactly matches Python Golden Model.
+=================================================
+tb/goertzel_tb.sv:183: $finish called at 10075000 (1ps)

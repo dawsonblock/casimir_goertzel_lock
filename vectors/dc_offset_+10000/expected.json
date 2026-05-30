@@ -1,0 +1,17 @@
+{
+  "name": "dc_offset_+10000",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": 1240690,
+  "q_out": -2731451,
+  "s_n": 895619,
+  "s_n_minus_1": -2753170,
+  "max_abs_state": 2993309,
+  "overflow_expected": false
+}

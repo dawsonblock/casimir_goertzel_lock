@@ -1,0 +1,17 @@
+{
+  "name": "offbin_plus_50k",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": -21,
+  "q_out": 254,
+  "s_n": 11,
+  "s_n_minus_1": 257,
+  "max_abs_state": 384336,
+  "overflow_expected": false
+}

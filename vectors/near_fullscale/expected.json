@@ -1,0 +1,17 @@
+{
+  "name": "near_fullscale",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": 2064139,
+  "q_out": -16249387,
+  "s_n": 11316,
+  "s_n_minus_1": -16378594,
+  "max_abs_state": 16378594,
+  "overflow_expected": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tone_phase_07",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": -3061819,
+  "q_out": -3952849,
+  "s_n": -3561192,
+  "s_n_minus_1": -3984280,
+  "max_abs_state": 4984751,
+  "overflow_expected": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "noise_1000",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": -2787712,
+  "q_out": -2865180,
+  "s_n": -3149677,
+  "s_n_minus_1": -2887962,
+  "max_abs_state": 4004111,
+  "overflow_expected": false
+}

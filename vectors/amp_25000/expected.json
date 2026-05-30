@@ -1,0 +1,17 @@
+{
+  "name": "amp_25000",
+  "fs_hz": 10000000.0,
+  "freq_hz": 2300000.0,
+  "n_block": 1000,
+  "q_shift": 17,
+  "coeff_2cos_q": 32855,
+  "cos_q": 16428,
+  "sin_q": 130038,
+  "k_exact": 230.0,
+  "i_out": -7654570,
+  "q_out": -9882146,
+  "s_n": -8903005,
+  "s_n_minus_1": -9960724,
+  "max_abs_state": 12461376,
+  "overflow_expected": false
+}
